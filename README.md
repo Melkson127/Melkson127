@@ -1,6 +1,5 @@
 ### Ola eu sou Melkson Albuquerque
 - 🔭 Trabalhando com front-end e back-end
-- 🌱 Estou estudando Rust
 - 📖 Meu tcc: https://github.com/B0rga/Rede_Social_Travel
 
 ##
